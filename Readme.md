@@ -3,7 +3,8 @@
 
 ![img_1.png](img_1.png)
 
-<h1>Singleton design pattern</h1>
+## Singleton design pattern
+<a href="https://www.youtube.com/watch?v=fs6ZUcF-nuc&list=PL0zysOflRCek8kmc_jYl_6C7tpud7U2V_&index=2&ab_channel=LearnCodeWithDurgesh">Youtube Demo!</a>
 
 <ol>
     <li>Constructor will always be private. This way, we prevent creating objects of the class.</li>
@@ -24,3 +25,22 @@
 
 **How to make Singleton classes thread safety?** 
 **ANS** : By using synchronization
+
+**Different ways of breaking of singleton classes :** 
+
+1. Using Reflections API.
+2. Using enum instead of Class.
+3. Using Deserialization
+
+## Factory Design pattern
+
+![img_2.png](img_2.png)
+
+## Abstract design pattern
+![img_3.png](img_3.png)
+
+## Builder design pattern
+![img_4.png](img_4.png)
+
+## Proxy Design pattern
+![img_5.png](img_5.png)

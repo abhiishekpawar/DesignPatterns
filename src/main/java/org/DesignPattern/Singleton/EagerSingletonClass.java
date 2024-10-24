@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.DesignPattern.Singleton;
 
 //Eager singleton class.
 public class EagerSingletonClass {

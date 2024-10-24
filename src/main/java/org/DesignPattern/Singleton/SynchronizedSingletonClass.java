@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.DesignPattern.Singleton;
 
 /**
  * To make singleton classes thread safety than we have to use Synchronization
